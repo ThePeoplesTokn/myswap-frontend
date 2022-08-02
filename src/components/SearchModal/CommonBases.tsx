@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@pantherswap-libs/uikit'
+import { Text } from 'peoples-ui-kit'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from '@pantherswap-libs/sdk'
 import styled from 'styled-components'
 

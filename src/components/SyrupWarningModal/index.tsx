@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Button, Text } from '@pantherswap-libs/uikit'
+import { Button, Text } from 'peoples-ui-kit'
 import { AlertTriangle } from 'react-feather'
 import { TYPE } from '../Shared'
 import Modal from '../Modal'
